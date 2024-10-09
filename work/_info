@@ -1,0 +1,297 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+Ebus_bidir
+Z0 w1639557466
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/TPVHDL/tp4
+Z6 8C:/TPVHDL/tp4/bus_bidir.vhd
+Z7 FC:/TPVHDL/tp4/bus_bidir.vhd
+l0
+L4
+V@0F]F5VSWJzY61kJZPQzC0
+!s100 l48GKf]S3Z7BR[]56`SjC3
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1639557495
+!i10b 1
+Z10 !s108 1639557495.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/TPVHDL/tp4/bus_bidir.vhd|
+Z12 !s107 C:/TPVHDL/tp4/bus_bidir.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Amarche
+R1
+R2
+R3
+R4
+Z15 DEx4 work 9 bus_bidir 0 22 @0F]F5VSWJzY61kJZPQzC0
+l17
+L13
+V17=8[`KnEZoWEC8ZkZU_<1
+!s100 oEF@S9gZ`JU9Tk=^CXbSR2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ebus_bidir_tb
+R0
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+l0
+L64
+V;<BoKNj^5lXFb::OM^dO_2
+!s100 YK1P`XEMTM7ccM`W9k3S^2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Abus_bidir_tb_a
+R15
+R1
+R2
+R3
+R4
+DEx4 work 12 bus_bidir_tb 0 22 ;<BoKNj^5lXFb::OM^dO_2
+l75
+L68
+V5Sz?3:dzHj?f5T@R5H=kY2
+!s100 >UeD@o;J:5IlVTMK?a:I[2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ecircuit
+Z16 w1640527985
+R1
+R2
+R3
+R4
+R5
+Z17 8C:/Users/Elève/Downloads/circuit.vhd
+Z18 FC:/Users/Elève/Downloads/circuit.vhd
+l0
+L4
+VEl_HSeo51kUo=cadb:3l`3
+!s100 o=<oOb4G3Gd9Vz3dZDbVz1
+R8
+32
+Z19 !s110 1640528817
+!i10b 1
+Z20 !s108 1640528817.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Elève/Downloads/circuit.vhd|
+Z22 !s107 C:/Users/Elève/Downloads/circuit.vhd|
+!i113 1
+R13
+R14
+Afonctionel
+R1
+R2
+R3
+R4
+Z23 DEx4 work 7 circuit 0 22 El_HSeo51kUo=cadb:3l`3
+l13
+L11
+V_FS=Vl6c:Zo?S1nI4^>m32
+!s100 Dk6n4Q:a8[3E?V>[Y;?1K1
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
+Ecircuit78
+R16
+R1
+R2
+R3
+R4
+R5
+R17
+R18
+l0
+L56
+V_lRQnA_o3ke^fOHTCG8@O2
+!s100 OoIRcVJNd`AL33RgY;n2K3
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
+Acircuit_tb_a
+R23
+R1
+R2
+R3
+R4
+DEx4 work 9 circuit78 0 22 _lRQnA_o3ke^fOHTCG8@O2
+l74
+L60
+VHL8GdC>z`:_;8RjYd8SYH0
+!s100 8Xn:bE_OlA6a=T_JT3EkH0
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
+Eexam
+w1642075541
+R1
+R2
+R3
+R4
+R5
+8C:/TPVHDL/tp4/exam.vhd
+FC:/TPVHDL/tp4/exam.vhd
+l0
+L4
+V=0RTnINR6TdIM>HP`^cMf1
+!s100 Ma;KRg=VI]2nX^k2Q7I]71
+R8
+32
+!s110 1642075552
+!i10b 1
+!s108 1642075552.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/TPVHDL/tp4/exam.vhd|
+!s107 C:/TPVHDL/tp4/exam.vhd|
+!i113 1
+R13
+R14
+Efib_tb
+Z24 w1639468054
+R1
+R2
+R3
+R4
+R5
+Z25 8C:/TPVHDL/TP3/fibonacci.vhd
+Z26 FC:/TPVHDL/TP3/fibonacci.vhd
+l0
+L74
+V8A2Ve;`7PcVcNTbF2n<[c1
+!s100 _LZf<KYV@ZENeEhK`l@L60
+R8
+32
+Z27 !s110 1639984382
+!i10b 1
+Z28 !s108 1639984381.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/TPVHDL/TP3/fibonacci.vhd|
+Z30 !s107 C:/TPVHDL/TP3/fibonacci.vhd|
+!i113 1
+R13
+R14
+Afib_tb1
+Z31 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z32 DEx4 work 9 fibonacci 0 22 0EB4XY0TfV5IeBI363M6e2
+R1
+R2
+R3
+R4
+DEx4 work 6 fib_tb 0 22 8A2Ve;`7PcVcNTbF2n<[c1
+l93
+L78
+V4SZ]ZCfUbPDI^G3g3ChkM0
+!s100 8QWFz9Dd^@4^YhE]5c3YQ3
+R8
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R13
+R14
+Efibonacci
+R24
+R31
+R1
+R2
+R3
+R4
+R5
+R25
+R26
+l0
+L5
+V0EB4XY0TfV5IeBI363M6e2
+!s100 i7JPVabEdXR@38VW9@XIC2
+R8
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R13
+R14
+Afib_i
+R31
+R1
+R2
+R3
+R4
+R32
+l15
+L14
+VX9H^]M`^2R^9l2P:daXhc0
+!s100 ?5zBN1KF<En]MbQoKI[:P0
+R8
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R13
+R14
